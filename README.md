@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Same</h1>
+<h1 align="center">Hi, I'm Same 👋</h1>
 
 - 📌 I’m currently working on [Scarface Crimelife](https://discord.gg/PEM6GKseFD)
 - 💻 I’m currently learning **C# & Go**
